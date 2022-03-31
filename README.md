@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lcvvvv&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### Hi there 👋 Welcome to my page 🇨🇳
+### Hi there <img src="https://github.com/lcvvvv/lcvvvv/raw/main/Hi.gif" width="30px"> Welcome to my page 🇨🇳
 
 - 📙 RedTeam & Ctf & Boom
 - ⚡ Golang / Python.
