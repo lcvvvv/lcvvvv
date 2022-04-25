@@ -7,6 +7,7 @@
 - 📙 RedTeam & Ctf & Boom
 - ⚡ Golang / Python.
 - 🇨🇳 From China
+- 🎈 Join us Y2hlbmcua3YyQGdtYWlsLmNvbQ==
 
 <!--
 **lcvvvv/lcvvvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
