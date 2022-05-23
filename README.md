@@ -4,7 +4,7 @@
 
 ###  Welcome to my page <img src="https://github.com/lcvvvv/lcvvvv/raw/main/Hi.gif" width="30px">
 
-- 📙 RedTeam & Ctf & Boom
+- 📙 RedTeam & Ctf / web & Boom
 - ⚡ Golang / Python.
 - 🇨🇳 From China
 - 🎈 Join us Y2hlbmcua3YyQGdtYWlsLmNvbQ==
